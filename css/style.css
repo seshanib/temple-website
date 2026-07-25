@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-background: #FAF7F2;   /* warm off-white */
+    --color-text: #2B2420;         /* deep warm charcoal */
+    --color-primary: #8B2E2E;      /* deep maroon/red */
+    --color-accent: #C9A24B;       /* muted gold */
+    --color-muted: #6B6560;        /* soft gray-brown for secondary text */
+}
+
+body {
+    font-family: 'Georgia', serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    line-height: 1.6;
+}
