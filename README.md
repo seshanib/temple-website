@@ -1,2 +1,2 @@
 # Temple Website
-A website built for Shri Shailaaramaya, Malabe, Sri Lanka, designed and developed by Seshani B.
+A website built for Sri Shailaaramaya, Malabe, Sri Lanka, designed and developed by Seshani B.
